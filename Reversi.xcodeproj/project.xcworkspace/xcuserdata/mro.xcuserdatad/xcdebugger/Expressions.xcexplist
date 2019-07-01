@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Bot::simulate(MctsNode*):refine.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:refine.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "last4statesForPredict">
+            </PersistentString>
+            <PersistentString
+               value = "last4statesForTrain">
+            </PersistentString>
+            <PersistentString
+               value = "last4states">
+            </PersistentString>
+            <PersistentString
+               value = "bot">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProcStep(int, int, int, bool):Resersi.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Montecarlo::Initiate():Resersi.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Montecarlo::Montecarlo(std::__1::vector&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;, std::__1::allocator&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt; &gt; &gt;):Reversi.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Montecarlo::playout(int):Reversi.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Json::Value::resolveReference(char const*, bool):jsoncpp.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "loc">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Bot::select(MctsNode*&amp;):refine.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Bot::ProcStep(MctsNode*&amp;, int, int, int, bool):refine.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "node">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Bot::backpropagate(MctsNode*, int):refine.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Bot::exec():refine.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Bot::RecoverHistory():refine.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "rootState-&gt;state">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Bot::exec() [inlined]:refine.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "main:Reversi.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Montecarlo::Backpropagation(Mct*&amp;, int):Reversi.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Montecarlo::playout(int):Resersi.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "Board">
+            </PersistentString>
+            <PersistentString
+               value = "whitePieceCount">
+            </PersistentString>
+            <PersistentString
+               value = "currBotColor">
+            </PersistentString>
+            <PersistentString
+               value = "blackPieceCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Reversi::backPropagation(UCTNode*, int):Reversi.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "root_node">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Bot::Bot():refine.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "gridInfo">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MctsNode::copyState(int (*) [8]):refine.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Montecarlo::TreePolicy(int&amp;):Reversi.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "Board">
+            </PersistentString>
+            <PersistentString
+               value = "whitePieceCount">
+            </PersistentString>
+            <PersistentString
+               value = "current_node">
+            </PersistentString>
+            <PersistentString
+               value = "blackPieceCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Bot::expand(MctsNode*):refine.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Reversi::MCTS(int&amp;, int&amp;):Reversi.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "root_node">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Bot::expand(MctsNode*&amp;):refine.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Montecarlo::Montecarlo(std::__1::vector&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;, std::__1::allocator&lt;std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt; &gt; &gt;&amp;):Reversi.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "Board">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "main:Ultimate.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "loc">
+            </PersistentString>
+            <PersistentString
+               value = "posCount">
+            </PersistentString>
+            <PersistentString
+               value = "possiblePos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Montecarlo::Simulation(int, int (*) [2]):Resersi.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "Board">
+            </PersistentString>
+            <PersistentString
+               value = "whitePieceCount">
+            </PersistentString>
+            <PersistentString
+               value = "blackPieceCount">
+            </PersistentString>
+            <PersistentString
+               value = "White">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Bot::select(MctsNode*):refine.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Montecarlo::ucbChoose():Reversi.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "*it">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Montecarlo::Selection():Resersi.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "Bot::CNNSPredict(MctsNode*):refine.cpp">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
